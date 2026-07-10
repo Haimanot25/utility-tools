@@ -1,1 +1,2 @@
 Fix flaky integration test
+Fix CORS configuration
